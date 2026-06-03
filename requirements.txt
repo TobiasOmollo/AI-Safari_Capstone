@@ -1,0 +1,12 @@
+# Core Multi-Agent Orchestration Framework
+crewai==0.28.8
+
+# Data Handling & Mathematical Modeling
+pandas==2.2.1
+numpy==1.26.4
+
+# Cryptographic Networks & Local Regulatory Compliance
+cryptography==42.0.5
+
+# Network Protocol Gateways for Low-Bandwidth USSD/SMS Simulation
+requests==2.31.0
